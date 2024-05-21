@@ -1,0 +1,25 @@
+# Compiled python bytecode
+**/__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Cached files
+*.cache/
+
+# Image files
+*.jpg
+*.jpeg
+*.png
